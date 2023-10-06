@@ -1,0 +1,2 @@
+##### AI Writer
+Java program that generates text that emulates a source file using a Markov chain. The timing and properties of each word is randomly chosen using the probability of that note to appear after a small sequence of previous words. The program takes four command line arguments: The location of the input text file, the name of the output text file, the level of analysis as an integer, and the length of the output as an integer.
